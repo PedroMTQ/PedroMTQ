@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Pedro Queirós, and this is my GitHub profile.
-I'm a PhD student in the University of Luxembourg mostly on the development of bioinformatics tools.
+I'm a PhD student in the University of Luxembourg mostly working on the development of bioinformatics tools.
 
 I've worked/currently working on a few tools and smaller repos:
 
@@ -12,7 +12,7 @@ I've worked/currently working on a few tools and smaller repos:
 - [Database mappers](https://github.com/PedroMTQ/db_mappers) contains tools for mapping of some highly specific ID types
 
 
-While I worked on a few different projects, my work is centered around data integration and how we can complementarily use already available data to generate knowledge. Therefore, I'm mostly interested in data engineering, e.g., I implement a lot of ETL workflows for dealing with big data, integrating of data from different sources, efficient data storage, etc.
+While I worked on a few different projects, my work is centered around data integration and how we can complementarily use already available data to generate knowledge. Therefore, I'm mostly interested in data engineering, e.g., I implement a lot of ETL workflows for dealing with big data, integrate data from different sources, efficiently store data, etc.
 
 My general motto is to make good use of good data.
 
