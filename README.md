@@ -20,9 +20,6 @@ My general motto is to make good use of good data.
 
 ### Github stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromtq&theme=<THEME_NAME>" />
-
-
 <a href="https://github.com/pedromtq/pedromtq">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromtq&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
@@ -30,9 +27,6 @@ My general motto is to make good use of good data.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedromtq&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Pedro's GitHub Stats" />
 </a>
 
-<a href="https://github.com/pedromtq/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedromtq&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
 <!--
 **PedroMTQ/PedroMTQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
